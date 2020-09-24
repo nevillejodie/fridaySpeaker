@@ -1,7 +1,7 @@
 from datetime import date, timedelta
 import random
 
-theTeam = ["Steve", "John", "Ken", "Jodie"]
+theTeam = ["Steve", "John", "Jodie"]
 
 def getTeamMember():
  teamMember = random.choice(theTeam)
